@@ -15,4 +15,8 @@ Comprehensive SQL analysis of sales data with stepwise explanations for business
 ✅ Average Basket Value  
 ✅ RFM Analysis
 
+### 🚀 **Usage**
 
+1. Clone the repo
+2. Review the explained PDF for conceptual clarity
+3. Practice the SQL queries on your local or cloud SQL server
